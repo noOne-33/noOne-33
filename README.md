@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm NAZIR HOSSAIN SAHINUR</h1>
+<h1 align="center">Hi 👋, I'm NAZIR HOSSAIN SAHINUR</h1>
 <h3 align="center">A passionate tech enthusiast from Sylhet,Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noone-33&label=Profile%20views&color=0e75b6&style=flat" alt="noone-33" /> </p>
